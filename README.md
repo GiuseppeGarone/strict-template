@@ -2,7 +2,7 @@
 
 This project is a PSD to HTML/CSS practice. It contains additional features like form validation and image popup, done with JS/jQuery.
 
-## Resources
+## External Resources
 * Font awesome icons and fonts: https://fontawesome.com/
 * Magnific popup library: http://dimsemenov.com/plugins/magnific-popup/
 * Reset CSS tool: https://meyerweb.com/eric/tools/css/reset/
