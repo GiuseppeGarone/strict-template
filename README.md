@@ -1,4 +1,4 @@
-# StrictTemplate
+# Strict Template
 
 STRICT is a modern one page template for portfolio and personal websites, designed by Ekhtiar Mahmud.
 
